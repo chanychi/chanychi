@@ -6,14 +6,19 @@
 
 ---
 
-### About Me
+### < Hello World 👋 > 
 
-##### Hi, I'm Chi Chan, a passionate full stack web developer. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+#### Hi, I'm Chi Chan, a passionate full stack web developer from Chicago. 
+My passion for software lies with dreaming up ideas and making them come true with responsive and elegant interfaces. 
+I take great care in the experience, architecture, and code quality of the things I build. 
+
+Feel free to reach out on LinkedIn💬 or Instagram💬!
+
 
 ---
 
 
-### Technologies
+### < Technologies >
 
 <span>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="90px" height="25px">
@@ -36,8 +41,10 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" width="90px" height="25px">
   <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" width="90px" height="25px">
 
-
-
+---
+ <a href="https://github.com/chanychi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanychi&show_icons=true&count_private=true&theme=dracula" />
+</a>
 <!--
 **chanychi/chanychi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
