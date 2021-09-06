@@ -1,4 +1,4 @@
-# [!chi chan header](https://github.com/chanychi/chanychi/blob/main/BG%20(2).png)]
+[![Social banner for jh3y](https://github.com/chanychi/chanychi/blob/main/BG%20(2).png)]
 
 ### Hi there 👋
 
