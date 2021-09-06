@@ -1,6 +1,6 @@
 ![Social banner for jh3y](https://github.com/chanychi/chanychi/blob/main/BG%20(2).png)
 
-### Hi there 👋
+### <Hello World! It's me, Chi!>
 
 <a href="https://www.linkedin.com/in/chi-chan88/">
   <img align="left" alt="Chi Chan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
