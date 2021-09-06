@@ -2,6 +2,10 @@
 
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/chi-chan88/">
+  <img align="left" alt="Chi Chan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
 <!--
 **chanychi/chanychi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
