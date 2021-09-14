@@ -17,7 +17,6 @@ Feel free to reach out on LinkedIn💬 or Instagram💬!
 
 ---
 
-
 ### < Technologies >
 
 <span>
