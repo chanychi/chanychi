@@ -14,7 +14,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 Feel free to reach out on LinkedIn💬 or Instagram💬!
 
-
 ---
 
 ### < Technologies >
