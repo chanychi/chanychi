@@ -6,7 +6,7 @@
 
 ---
 
-### < Hello World 👋 > 
+### < Hello World 👋 >  
 
 #### Hi, I'm Chi Chan, a passionate full stack web developer from Chicago. 
 My passion for software lies with dreaming up ideas and making them come true with responsive and elegant interfaces. 
