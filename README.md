@@ -12,7 +12,7 @@
 My passion for software lies with dreaming up ideas and making them come true with responsive and elegant interfaces. 
 I take great care in the experience, architecture, and code quality of the things I build. 
 
-Feel free to reach out on LinkedIn💬 or Instagram💬!
+Feel free to reach out on LinkedIn or Instagram!
 
 ---
 
