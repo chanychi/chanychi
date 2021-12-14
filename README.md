@@ -1,7 +1,7 @@
 [![Social banner for jh3y](https://github.com/chanychi/chanychi/blob/main/BG%20(2).png)]()
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chi-chan88/)
-[![Instagram](https://img.shields.io/badge/uuh_chii-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/uuh_chii)
+<!-- [![Instagram](https://img.shields.io/badge/uuh_chii-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/uuh_chii) -->
 
 
 ---
